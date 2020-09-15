@@ -10,13 +10,13 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme.Dark">
         <activity android:name=".Register"></activity>
-        <activity android:name=".ProjectUserView" />
-        <activity android:name=".ProjectOwnerView" />
-        <activity android:name=".Login" />
-        <activity android:name=".Contratar" />
-        <activity android:name=".Profile" />
-        <activity android:name=".ConfirmEmail" />
-        <activity android:name=".CreateProjectActivity" />
+        <activity android:name=".ProjectUserView" ></activity>
+        <activity android:name=".ProjectOwnerView" ></activity>
+        <activity android:name=".Login" ></activity>
+        <activity android:name=".Contratar"></activity>
+        <activity android:name=".Profile" ></activity>
+        <activity android:name=".ConfirmEmail"></activity>
+        <activity android:name=".CreateProjectActivity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
