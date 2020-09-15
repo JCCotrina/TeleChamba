@@ -72,10 +72,11 @@
         android:id="@+id/botonRegresarMenuPrincipal"
         android:layout_width="256dp"
         android:layout_height="47dp"
-        android:layout_marginTop="44dp"
+        android:layout_marginTop="36dp"
         android:text="@string/botonRegresarPrincipal"
         android:textColor="#000000"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/botonConfirmarCrear" />
 </androidx.constraintlayout.widget.ConstraintLayout>
